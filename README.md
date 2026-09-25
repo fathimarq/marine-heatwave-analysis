@@ -30,8 +30,8 @@ A **single-week snapshot** (17–23 September 2026) of NOAA Coral Reef Watch's D
 
 - **Product**: Marine heatwave categories derived from CoralTemp satellite SST
 - **Resolution**: 5 km global, daily
-- **Method**: Hobday et al. (2018) marine heatwave algorithm applied to CRW's CoralTemp SST product [citation:5]
-- **Categories**: 0 (none), 1 (Moderate), 2 (Strong), 3 (Severe), 4 (Extreme), 5 (beyond Extreme) [citation:5]
+- **Method**: Hobday et al. (2018) marine heatwave algorithm applied to CRW's CoralTemp SST product 
+- **Categories**: 0 (none), 1 (Moderate), 2 (Strong), 3 (Severe), 4 (Extreme), 5 (beyond Extreme)
 
 **Snapshot date:** 2026-09-17 → 2026-09-23 (7 daily observations)
 **Region:** 145°E–155°E, 10°S–25°S (Great Barrier Reef)
@@ -51,4 +51,4 @@ A **single-week snapshot** (17–23 September 2026) of NOAA Coral Reef Watch's D
 
 ```bash
 pip install -r requirements.txt
-streamlit run app_v2.py
+streamlit run app.py
