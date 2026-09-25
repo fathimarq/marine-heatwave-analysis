@@ -2,7 +2,7 @@
 
 **Monitoring active heat stress in the southern Great Barrier Reef using NOAA satellite data (17–23 September 2026).**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gbr-mhw-dashboard.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://gbr-mhw-dashboard.streamlit.app](https://marine-heatwave-analysis-appryogseyljyhp5he6dmo.streamlit.app/))
 
 ---
 
